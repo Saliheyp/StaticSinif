@@ -1,0 +1,15 @@
+D:\Patika\StaticSinif\bin\Debug\net7.0\StaticSinif.exe
+D:\Patika\StaticSinif\bin\Debug\net7.0\StaticSinif.deps.json
+D:\Patika\StaticSinif\bin\Debug\net7.0\StaticSinif.runtimeconfig.json
+D:\Patika\StaticSinif\bin\Debug\net7.0\StaticSinif.dll
+D:\Patika\StaticSinif\bin\Debug\net7.0\StaticSinif.pdb
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.csproj.AssemblyReference.cache
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.AssemblyInfoInputs.cache
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.AssemblyInfo.cs
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.csproj.CoreCompileInputs.cache
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.dll
+D:\Patika\StaticSinif\obj\Debug\net7.0\refint\StaticSinif.dll
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.pdb
+D:\Patika\StaticSinif\obj\Debug\net7.0\StaticSinif.genruntimeconfig.cache
+D:\Patika\StaticSinif\obj\Debug\net7.0\ref\StaticSinif.dll
